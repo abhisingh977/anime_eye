@@ -8,4 +8,5 @@ To run this repo you need
 -opencv
 -dlib
 
-The code for anime eye filter is in dlib landmark notebook.
+For sharingan eyes filter run sharingan.py file
+For shinigami eyes filter run shinigami.py
